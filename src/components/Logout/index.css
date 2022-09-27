@@ -1,0 +1,33 @@
+/* Write your CSS here */
+/* Write your CSS here */
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-image: linear-gradient(to bottom #2b2c49, #b5b9ff);
+  height: 250px;
+  width: 450px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 30px;
+  color: white;
+}
+
+button {
+  background-color: #f8fafc;
+  border-radius: 8px;
+  color: #303150;
+  height: 30px;
+  width: 80px;
+}
